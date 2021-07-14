@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
    height="297mm"
    viewBox="0 0 210 297"
    version="1.1"
    id="svg1997"
-   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
-   sodipodi:docname="lego_isometric_bricks_for_diagrams.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   inkscape:version="1.0.2 (1.0.2+r75+1)"
+   sodipodi:docname="legood.svg">
   <title
      id="title74521">Legood</title>
   <defs
@@ -4101,11 +4101,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.56043966"
+     inkscape:zoom="1.4577641"
      inkscape:cx="268.53917"
      inkscape:cy="566.51951"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g45076"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:pagecheckerboard="0"
@@ -4318,6 +4318,10 @@
         </dc:creator>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+        <dc:identifier>https://raw.githubusercontent.com/nojhan/legood/main/legood.svg</dc:identifier>
+        <dc:source>https://github.com/nojhan/legood</dc:source>
+        <dc:language>en</dc:language>
+        <dc:description>A set of graphic objects for making diagrams in the shape of Lego bricks.</dc:description>
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by/4.0/">
@@ -4734,7 +4738,7 @@
            style="fill:#ffaaaa;fill-opacity:1;stroke:#7f2aff;stroke-width:0.132292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
              id="path63137"
-             style="fill:url(#linearGradient63383);fill-opacity:1.0;stroke:#7f2aff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             style="fill:url(#linearGradient63383);fill-opacity:1;stroke:#7f2aff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              d="m 217.33203,209.29883 v 4.68945 c -0.0302,0.60775 0.50798,1.2211 1.62305,1.62695 2.17245,0.79071 6.51238,0.79025 8.68359,0 1.06771,-0.38861 1.60601,-0.96794 1.62305,-1.55078 h 0.01 v -4.76562 z"
              transform="scale(0.26458333)" />
           <path
@@ -4749,7 +4753,7 @@
            style="fill:#ffaaaa;fill-opacity:1;stroke:#7f2aff;stroke-width:0.132292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
              id="path63143"
-             style="fill:url(#linearGradient63385);fill-opacity:1.0;stroke:#7f2aff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             style="fill:url(#linearGradient63385);fill-opacity:1;stroke:#7f2aff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              d="m 217.33203,209.29883 v 4.68945 c -0.0302,0.60775 0.50798,1.2211 1.62305,1.62695 2.17245,0.79071 6.51238,0.79025 8.68359,0 1.06771,-0.38861 1.60601,-0.96794 1.62305,-1.55078 h 0.01 v -4.76562 z"
              transform="scale(0.26458333)" />
           <path
@@ -4764,7 +4768,7 @@
            style="fill:#ffaaaa;fill-opacity:1;stroke:#7f2aff;stroke-width:0.132292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
              id="path63149"
-             style="fill:url(#linearGradient63387);fill-opacity:1.0;stroke:#7f2aff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             style="fill:url(#linearGradient63387);fill-opacity:1;stroke:#7f2aff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              d="m 217.33203,209.29883 v 4.68945 c -0.0302,0.60775 0.50798,1.2211 1.62305,1.62695 2.17245,0.79071 6.51238,0.79025 8.68359,0 1.06771,-0.38861 1.60601,-0.96794 1.62305,-1.55078 h 0.01 v -4.76562 z"
              transform="scale(0.26458333)" />
           <path
@@ -4982,15 +4986,15 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#5500d4;fill-opacity:1;stroke:none;stroke-width:0.264583;text-anchor:middle;text-align:center"
+         style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#5500d4;fill-opacity:1;stroke:none;stroke-width:0.264583"
          x="89.789597"
          y="58.188984"
          id="text63247"
          transform="skewY(-20.167256)"><tspan
            sodipodi:role="line"
            id="tspan63245"
-           style="font-size:4.23333px;fill:#5500d4;stroke-width:0.264583;text-anchor:middle;text-align:center"
-           x="78.711212"
+           style="font-size:4.23333px;text-align:center;text-anchor:middle;fill:#5500d4;stroke-width:0.264583"
+           x="89.789597"
            y="58.188984">Long Label</tspan></text>
     </g>
     <g
@@ -5190,15 +5194,15 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;text-anchor:middle;text-align:center"
+         style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:white;fill-opacity:1;stroke:none;stroke-width:0.264583"
          x="116.75598"
          y="-17.090395"
          id="text63335"
          transform="skewY(19.810167)"><tspan
            sodipodi:role="line"
            id="tspan63333"
-           style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583;text-anchor:middle;text-align:center"
-           x="105.6776"
+           style="font-size:4.23333px;text-align:center;text-anchor:middle;fill:white;stroke-width:0.264583"
+           x="116.75598"
            y="-17.090395">Long Label</tspan></text>
     </g>
     <g
@@ -5845,15 +5849,15 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#0044aa;fill-opacity:1;stroke:none;stroke-width:0.264583;text-anchor:middle;text-align:center"
+         style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#04a;fill-opacity:1;stroke:none;stroke-width:0.264583"
          x="89.789597"
          y="58.188984"
          id="text44986"
          transform="skewY(-20.167256)"><tspan
            sodipodi:role="line"
            id="tspan44984"
-           style="font-size:4.23333px;fill:#0044aa;stroke-width:0.264583;text-anchor:middle;text-align:center"
-           x="78.711212"
+           style="font-size:4.23333px;text-align:center;text-anchor:middle;fill:#04a;stroke-width:0.264583"
+           x="89.789597"
            y="58.188984">Long Label</tspan></text>
     </g>
     <g
@@ -6053,15 +6057,15 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;text-anchor:middle;text-align:center"
+         style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:white;fill-opacity:1;stroke:none;stroke-width:0.264583"
          x="116.75598"
          y="-17.090395"
          id="text45074"
          transform="skewY(19.810167)"><tspan
            sodipodi:role="line"
            id="tspan45072"
-           style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583;text-anchor:middle;text-align:center"
-           x="105.6776"
+           style="font-size:4.23333px;text-align:center;text-anchor:middle;fill:white;stroke-width:0.264583"
+           x="116.75598"
            y="-17.090395">Long Label</tspan></text>
     </g>
     <g
