@@ -1,4 +1,14 @@
-Legood is a set of graphic objects for making diagrams in the shape of Lego bricks.
+# THIS REPOSITORY HAS MOVED
+
+It is now available at: https://nojhan.net/git/nojhan/legood
+
+You can federate with it from Codeberg or another Forgejo instance.
+
+Please consider self-hosting to preserve the open Web, I highly recommend: https://yunohost.org
+
+
+
+## Legood is a set of graphic objects for making diagrams in the shape of Lego bricks.
 
 It is provided in the Scalable Vector Graphic format, made with Inkscape.
 SVG should be portable enough to be opened in many other softwares (Illustrator, Corel, Gimp, LibreOffice, any browser...).
